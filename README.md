@@ -3,7 +3,29 @@
 **Senior AI Safety Research Lead & Architect**
 AI Safety • Reinforcement Learning • Adversarial Robustness • Red Teaming
 
+![Profile Views](https://komarev.com/ghpvc/?username=sparktsao&color=blue&style=flat)
+
 Researcher exploring AI safety through production systems and personal experiments. I build safety-critical ML systems by day and explore new ideas through prototypes and experiments.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sparktsao&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sparktsao&layout=compact&hide_border=true)
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-Claude%20%7C%20GPT%20%7C%20Gemini-blueviolet?style=flat)
+![Reinforcement Learning](https://img.shields.io/badge/RL-Reinforcement%20Learning-green?style=flat)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-orange?style=flat)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Red%20Team-red?style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
 
 ---
 
@@ -37,7 +59,7 @@ Researcher exploring AI safety through production systems and personal experimen
 ## 🏆 Recognition
 
 - **20+ U.S. Patents** in AI security and detection systems
-- **418 citations** (h-index 10) • [Google Scholar](https://scholar.google.com/citations)
+- **418 citations** (h-index 10) • [Google Scholar](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
 - **EMNLP 2025** Industrial Track first-author publication
 
 ---
@@ -57,4 +79,4 @@ Selected themes:
 
 **Email:** linhots.tsao@gmail.com
 **LinkedIn:** [linkedin.com/in/spark-tsao](https://www.linkedin.com/in/spark-tsao)
-**Google Scholar:** [scholar.google.com/citations](https://scholar.google.com/citations)
+**Google Scholar:** [scholar.google.com/citations?user=YOUR_SCHOLAR_ID](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
