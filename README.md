@@ -59,7 +59,7 @@ Researcher exploring AI safety through production systems and personal experimen
 ## 🏆 Recognition
 
 - **20+ U.S. Patents** in AI security and detection systems
-- **418 citations** (h-index 10) • [Google Scholar](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
+- **418 citations** (h-index 10) • [Google Scholar](https://scholar.google.com/citations?user=erLLR-8AAAAJ&hl=en)
 - **EMNLP 2025** Industrial Track first-author publication
 
 ---
@@ -79,4 +79,4 @@ Selected themes:
 
 **Email:** linhots.tsao@gmail.com
 **LinkedIn:** [linkedin.com/in/spark-tsao](https://www.linkedin.com/in/spark-tsao)
-**Google Scholar:** [scholar.google.com/citations?user=YOUR_SCHOLAR_ID](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
+**Google Scholar:** [scholar.google.com/citations?user=erLLR-8AAAAJ](https://scholar.google.com/citations?user=erLLR-8AAAAJ&hl=en)
