@@ -77,5 +77,5 @@ Selected themes:
 ## 📫 Contact
 
 **Email:** linhots.tsao@gmail.com
-**LinkedIn:** [linkedin.com/in/spark-tsao](https://www.linkedin.com/in/spark-tsao)
+**LinkedIn:** [linkedin.com/in/spark-tsao](https://www.linkedin.com/in/spark-tsao-100a888/)
 **Google Scholar:** [scholar.google.com/citations?user=erLLR-8AAAAJ](https://scholar.google.com/citations?user=erLLR-8AAAAJ&hl=en)
